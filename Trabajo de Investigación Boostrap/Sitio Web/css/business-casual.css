@@ -6,7 +6,7 @@
 
 body {
   font-family: 'Lora';
-  background: -webkit-gradient(linear, left top, left bottom, from(rgba(47, 23, 15, 0.65))), url("../img/bg.jpg");
+  background: /*-webkit-gradient(linear, left top, left bottom, from(rgba(47, 23, 15, 0.65))),*/ url("../img/bg.jpg");
   background: linear-gradient(rgba(47, 23, 15, 0.65)), url("../img/bg.jpg");
   background-attachment: fixed;
   background-position: center;
@@ -76,7 +76,7 @@ p {
 }
 
 #mainNav {
-  background-color: rgba(47, 23, 15, 0.9);
+  background-color: rgba(0, 0, 0, 0.9);
   font-family: 'Raleway';
 }
 
@@ -98,7 +98,7 @@ p {
     font-size: 0.9rem;
   }
   #mainNav .navbar-nav .nav-item .nav-link:hover {
-    color: rgba(255, 255, 255, 0.4);
+    color: rgba(255, 255, 91, 1);
   }
   #mainNav .navbar-nav .nav-item.active .nav-link:hover {
     color: #e6a756;
@@ -153,7 +153,8 @@ p {
   position: relative;
   padding: 3rem;
   margin: 0.5rem;
-  background-color: rgba(255, 255, 255, 0.85);
+  /*background-color: rgba(255, 255, 255, 0.85);*/
+  background-image: url("../img/bg1.jpg");
 }
 
 .cta .cta-inner:before {
@@ -226,7 +227,7 @@ p {
 }
 
 .footer {
-  background-color: rgba(47, 23, 15, 0.9);
+  background-color: rgba(0, 0, 0, 0.9);
 }
 
 .text-primary {
