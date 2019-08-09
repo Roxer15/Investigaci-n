@@ -163,7 +163,8 @@ p {
 }
 
 .cta .cta-inner {
-  position: relative;
+  position: relative; 
+  width: 30%	
   padding: 3rem;
   margin: 0.5rem;
   background-color: rgba(255, 255, 255, 0.85);
@@ -220,7 +221,7 @@ p {
 .list-hours .list-hours-item {
   border-bottom: 1px solid rgba(230, 167, 86, 0.5);
   padding-bottom: .25rem;
-  margin-bottom: 1rem;
+  margin-bottom: 0rem;
   font-style: italic;
 }
 
