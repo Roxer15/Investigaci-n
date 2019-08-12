@@ -22,9 +22,6 @@ h6 {
   font-family: 'Raleway';
 }
 
-p {
-  line-height: 1.75;
-}
 
 .text-faded {
   color: rgba(255, 255, 255, 0.3);
@@ -294,8 +291,7 @@ p {
 .card .card-body #precio{
   background: red;
   color:white;
-  width: 58%
-  font-size-adjust:relative;
+  margin:20px 20px;
 }
 .card{
   background-color: rgba(0,0, 0, 0.4);
@@ -308,12 +304,15 @@ p {
   height: 100px;
 }
 .card .card-body #descripcion{
-  width: 166px ;
-  height:56px;
+ margin: 5px 8px;
+     width: 100px;
+    height: 51px;
+    font-size: 11px;
 }
 .card .card-title{
   width: 166px;
   height: 48px;
+  font-size: 20px;
 }
 .co{
    font-family: "Times New Roman", Times, serif;
@@ -321,4 +320,10 @@ p {
    background: rgba(0,0, 0, 0.4);
    color: yellow;
    border-color: solid black;
+}
+.card-body{ 
+  margin: 10px 12px;
+ padding: 1%;
+ flex: none;
+
 }
