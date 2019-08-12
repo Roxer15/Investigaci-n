@@ -318,6 +318,7 @@ p {
 .co{
    font-family: "Times New Roman", Times, serif;
    font-size: 7vw;
+   background: rgba(0,0, 0, 0.4);
    color: yellow;
    border-color: solid black;
 }
