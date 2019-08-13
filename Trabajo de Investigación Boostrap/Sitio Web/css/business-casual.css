@@ -329,6 +329,9 @@ h6 {
 }
 #formulario{
   background-color: rgba(0,0, 0, 0.3);
-  color: white;
-
+  color: yellow;
+  font-size: 20px;
+  font-family: "Arial",time,bold;
+  max-width: 600px;
+  max-height:650px;
 }
