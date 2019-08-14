@@ -338,15 +338,15 @@ h6 {
 #marcas{
   background: rgba(0,0, 0, 0.3);
 }
-<<<<<<< HEAD
-#hola{
-  display:inline-block;
-}
+
 #boos{
   background: rgba(0,0, 0, 0.3);
   color:white;
+  font-size: 20px;
+
 }
-=======
+
+
 #nosotros{
   background-color: rgba(0,0, 0, 0.3);
   color: yellow;
@@ -378,4 +378,10 @@ h6 {
   background: rgba(214, 219, 223 );
   color:black;
 
+}
+
+}
+#delado{
+ float: right;
+ clear: both;
 }
