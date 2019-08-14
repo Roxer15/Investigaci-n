@@ -335,17 +335,3 @@ h6 {
   max-width: 600px;
   max-height:650px;
 }
-
-/*#nosotros{
-  
-  background: -webkit-linear-gradient(left top, black, black);
-  background: linear-gradient(to bottom right, black, yellow);
-  -webkit-background-clip: text;  
-  -webkit-text-fill-color: transparent;  
-
-  /*color: yellow;background: -webkit-linear-gradient(red, blue);background-color: rgba(0,0, 0, 0.3);*/
-  /*font-size: 20px;
-  font-family: "Arial",time,bold;
-  max-width: 1200px;
-  max-height:1250px;
-}*/
