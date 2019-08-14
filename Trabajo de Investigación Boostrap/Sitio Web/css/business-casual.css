@@ -305,9 +305,9 @@ h6 {
 }
 .card .card-body #descripcion{
  margin: 5px 8px;
-     width: 100px;
-    height: 51px;
-    font-size: 20px;
+     width: 130px;
+    height: 70px;
+    font-size: 14px;
 }
 .card .card-title{
   width: 166px;
