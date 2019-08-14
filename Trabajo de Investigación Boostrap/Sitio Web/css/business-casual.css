@@ -338,3 +338,10 @@ h6 {
 #marcas{
   background: rgba(0,0, 0, 0.3);
 }
+#hola{
+  display:inline-block;
+}
+#boos{
+  background: rgba(0,0, 0, 0.3);
+  color:white;
+}
