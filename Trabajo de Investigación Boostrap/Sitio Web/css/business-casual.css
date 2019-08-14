@@ -338,6 +338,14 @@ h6 {
 #marcas{
   background: rgba(0,0, 0, 0.3);
 }
+<<<<<<< HEAD
+#hola{
+  display:inline-block;
+}
+#boos{
+  background: rgba(0,0, 0, 0.3);
+  color:white;
+=======
 #nosotros{
   background-color: rgba(0,0, 0, 0.3);
   color: yellow;
@@ -360,4 +368,5 @@ h6 {
 #objetivo{
    max-width: 550px;
   max-height: 650px;
+>>>>>>> f19d5bdc0340e4de1eaac4b7ccfc89c6931b69e1
 }
