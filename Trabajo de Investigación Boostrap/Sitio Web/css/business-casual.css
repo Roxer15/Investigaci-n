@@ -343,7 +343,10 @@ h6 {
   background: rgba(0,0, 0, 0.3);
   color:white;
   font-size: 20px;
+
 }
+
+
 #nosotros{
   background-color: rgba(0,0, 0, 0.3);
   color: yellow;
@@ -352,9 +355,10 @@ h6 {
   max-width: 600px;
   max-height:650px;
 }
+
 #demo{
  max-width: 360px;
-    max-height: 750px;
+ max-height: 750px;
 }
 
 #demo1{
@@ -366,6 +370,15 @@ h6 {
 #objetivo{
    max-width: 550px;
   max-height: 650px;
+}
+
+
+#texto{
+
+  background: rgba(214, 219, 223 );
+  color:black;
+
+}
 
 }
 #delado{
