@@ -338,3 +338,26 @@ h6 {
 #marcas{
   background: rgba(0,0, 0, 0.3);
 }
+#nosotros{
+  background-color: rgba(0,0, 0, 0.3);
+  color: yellow;
+  font-size: 20px;
+  font-family: "Arial",time,bold;
+  max-width: 600px;
+  max-height:650px;
+}
+#demo{
+ max-width: 360px;
+    max-height: 750px;
+}
+
+#demo1{
+   max-width: 400px;
+    max-height: 650px;
+
+}
+
+#objetivo{
+   max-width: 550px;
+  max-height: 650px;
+}
