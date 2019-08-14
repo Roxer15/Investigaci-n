@@ -105,20 +105,28 @@
            <a class="nav-link text-uppercase text-expanded" href="../consejos boostrap/consejos boostrap.html">Consejos de bootstrap</a>
           </li>
   </nav> <br></br>
+  <section class="">
+      <br></br>
+        <div class="row justify-content-center">
+              <h1 class="co">CONTACTENOS</h1>
+            <br></br>
+        </div>
+      
+    </section>
   <section class="container justify-content-center" id="formulario">
    <section class="row justify-content-center">
 <form action="contactenos_submit" method="get" accept-charset="utf-8">
      <section class="form-group">
     <label for="Nombre Completo">Nombre completo</label>
-    <input type="text" class="form-control" id="Nombre comleto" placeholder="Juan Rodriguez">
+    <input type="text" class="form-control" required="true" id="Nombre comleto" placeholder="Juan Rodriguez">
   </section>
   <section class="form-group">
     <label for="Email">Correo</label>
-    <input type="text" class="form-control" id="Email" value="@">
+    <input type="email" required="true" class="form-control" id="Email" placeholder="midireccion@gmail.com" size="50">
   </section>
   <section class="form-group">
-     <label for="Telefono">Correo</label>
-    <input type="text" class="form-control" id="Telefono" placeholder="8888-88-88">
+     <label for="Telefono">Telefono</label>
+    <input type="tel" class="form-control" required="true" pattern='[\+]\d{2}[\(]\d{2}[\)]\d{4}[\-]\d{4}' id="Telefono" placeholder="8888-88-88">
   </section>
   <section class="form-group">
       <label for="Consulta">Motivo de la consulta</label>
