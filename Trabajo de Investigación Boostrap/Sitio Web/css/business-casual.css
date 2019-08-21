@@ -385,3 +385,15 @@ h6 {
  float: right;
  clear: both;
 }
+
+#titulos{
+   font-family: "Times New Roman", Times, serif;
+   font-size: 25px;
+   color: yellow;
+   border-color: solid black;
+}
+#todo{
+  font-size: 20px;
+  border-color: solid black;
+  font-family: "Times New Roman", Times, serif;
+}
