@@ -288,6 +288,9 @@ h6 {
   background: #25d366;
   color: white;
 }
+.fa-map-marker{
+  color: red;
+}
 .card .card-body #precio{
   background: red;
   color:white;
@@ -396,4 +399,7 @@ h6 {
   font-size: 20px;
   border-color: solid black;
   font-family: "Times New Roman", Times, serif;
+}
+#logo{
+  display: block;
 }
