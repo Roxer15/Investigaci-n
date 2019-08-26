@@ -497,4 +497,15 @@ a:hover{
 @media only screen and (max-width: 767px) {
 .navbar-nav .show .dropdown-menu .dropdown-menu > li > a{padding:16px 15px 16px 35px}
 .navbar-nav .show .dropdown-menu .dropdown-menu .dropdown-menu > li > a{padding:16px 15px 16px 45px}
+}*/
+#navbarResponsive{
+  margin: 0 auto;
+  flex-grow: 0;
+}
+.navbar-toggler-icon{
+   color:white;
+}
+#terminos{
+  background:rgba(0, 0, 0, 0.7);
+  color:white; 
 }
